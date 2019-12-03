@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on xu zhi</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on xu zhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 02 Dec 2019 20:56:25 +0800</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello world</title>
+      <link>/posts/2019/1202/</link>
+      <pubDate>Mon, 02 Dec 2019 20:56:25 +0800</pubDate>
+      
+      <guid>/posts/2019/1202/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
