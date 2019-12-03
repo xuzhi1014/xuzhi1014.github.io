@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on xu zhi</title>
-    <link>/tags/blog/</link>
+    <link>https://xuzhi1014.github.io/tags/blog/</link>
     <description>Recent content in blog on xu zhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 02 Dec 2019 20:56:25 +0800</lastBuildDate>
     
-	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xuzhi1014.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello world</title>
-      <link>/posts/2019/1202/</link>
+      <link>https://xuzhi1014.github.io/posts/2019/1202/</link>
       <pubDate>Mon, 02 Dec 2019 20:56:25 +0800</pubDate>
       
-      <guid>/posts/2019/1202/</guid>
+      <guid>https://xuzhi1014.github.io/posts/2019/1202/</guid>
       <description></description>
     </item>
     

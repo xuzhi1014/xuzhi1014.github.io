@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xu zhi</title>
-    <link>/</link>
+    <link>https://xuzhi1014.github.io/</link>
     <description>Recent content on xu zhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 02 Dec 2019 20:56:25 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xuzhi1014.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello world</title>
-      <link>/posts/2019/1202/</link>
+      <link>https://xuzhi1014.github.io/posts/2019/1202/</link>
       <pubDate>Mon, 02 Dec 2019 20:56:25 +0800</pubDate>
       
-      <guid>/posts/2019/1202/</guid>
+      <guid>https://xuzhi1014.github.io/posts/2019/1202/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://xuzhi1014.github.io/about/</link>
       <pubDate>Mon, 02 Dec 2019 20:55:42 +0800</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://xuzhi1014.github.io/about/</guid>
       <description></description>
     </item>
     
