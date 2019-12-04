@@ -18,7 +18,10 @@
       <pubDate>Mon, 02 Dec 2019 20:56:25 +0800</pubDate>
       
       <guid>https://xuzhi1014.github.io/posts/2019/1202/</guid>
-      <description></description>
+      <description>这个博客使用 hugo + github Page 搭建，主要参考了 ：
+  Hugo 快速开始指引
+  Hosting on GitHub Pages
+  部署到github Page遇到一点小问题，不能正常加载页面布局，参考这篇文章解决问题，错误设置&amp;quot;baseurl&amp;quot;导致。</description>
     </item>
     
   </channel>
